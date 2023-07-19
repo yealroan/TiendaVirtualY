@@ -7,9 +7,9 @@
 
     <fragment
         android:id="@+id/nav_productos"
-        android:name="com.usa.tiendavirtualy.ui.home.HomeFragment"
+        android:name="com.usa.tiendavirtualy.ui.producto.ProductoFragment"
         android:label="@string/productos"
-        tools:layout="@layout/fragment_home" />
+        tools:layout="@layout/fragment_producto" />
 
     <fragment
         android:id="@+id/nav_servicios"
